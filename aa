@@ -1,7 +1,0 @@
-def minhaFuncao(nome, dia):
-    if dia == True:
-        print("Good Morning, "+nome)
-    else:
-        print("Good Night, " +nome)
-    
-minhaFuncao("John", False)
