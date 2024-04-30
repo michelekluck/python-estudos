@@ -5,7 +5,8 @@ Exemplo 1.2 = Elabore um programa que simule o cadastro de telefones com dicion�
 Foi utilizado: dicionario, loop while True, condição if.
 <br><br>
 Exemplo 3 = Elabore um programa que exemplifique a remoção de itens de um dicionário usando o método pop()<br>
-Foi utilizado: dicionario, método pop()<br>
+Foi utilizado: dicionario, método pop()
+<br><br>
 metodos = exemplos de todos os metodos utilizados para dicionário<br>
 metodos que: <br>
 -> adiciona um novo elemento no vetor; <br>
