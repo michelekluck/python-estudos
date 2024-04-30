@@ -1,8 +1,9 @@
 Exemplo 1 = Elabore um programa que simule o cadastro de telefones com dicionário como uma agenda, exibindo, ao final, o dicionário.<br>
 Foi utilizado: dicionário, loop while True e confição if.
-<br>
+<br><br>
 Exemplo 1.2 = Elabore um programa que simule o cadastro de telefones com dicionário como uma agenda. Caso seja informado um nome já existente, deve perguntar se deseja alterar os dados existentes. Caso seja um telefone já existente, deve informar que esse telefone já está cadastrado em outro contato, não podendo ser efetuada a inclusão. Ao final, deve exibir o dicionário.<br>
-Foi utilizado: dicionario, loop while True, condição if.<br>
+Foi utilizado: dicionario, loop while True, condição if.
+<br><br>
 Exemplo 3 = Elabore um programa que exemplifique a remoção de itens de um dicionário usando o método pop()<br>
 Foi utilizado: dicionario, método pop()<br>
 metodos = exemplos de todos os metodos utilizados para dicionário<br>
