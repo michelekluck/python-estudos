@@ -1,3 +1,5 @@
+#Salve o exemplo de JSON acima em um arquivo chamado “pessoa.json”.
+
 import json
 
 dados = {
