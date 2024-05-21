@@ -1,4 +1,4 @@
-arquivos-e-excecoes > excecoes:<br>
+<strong>arquivos-e-excecoes > excecoes:<br></strong>
 <br>
 exemplo-2: <br>
 -> Adicionar um tratamento de exceções para um algoritmo que pede ao usuário para que ele(a) digite um número e, em seguida, dividisse aquele número por zero
