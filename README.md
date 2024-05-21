@@ -1,4 +1,5 @@
-arquivos-e-excecoes > excecoes: <br>
+arquivos-e-excecoes > excecoes:<br>
+<br>
 exemplo-2: <br>
 -> Adicionar um tratamento de exceções para um algoritmo que pede ao usuário para que ele(a) digite um número e, em seguida, dividisse aquele número por zero
 <br>
@@ -9,6 +10,7 @@ exemplo-3: <br>
 -> `while True`, `try`, `except`,`continue`, `if`, `elif`, `break`, `else`<br>
 
 arquivos-e-excecoes > exercicios:<br>
+<br>
 exercicio-1:<br>
 -> Programa que pede ao usuário 5 números inteiros. Salve estes números dentro de um arquivo chamado “números.txt”. Cada número deve ocupar uma linha.<br>
 -> `import json`, `lista`, `for i in range()`, `with open("w") as arquivo`,`with open("r") as arquivo`<br>
