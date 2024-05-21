@@ -9,7 +9,7 @@ exemplo-3: <br>
 -> Opções: doces, salgados bebidas, sair, usuario deve digitar uma opção e o codigo deve tratar quando a opção for invalida ou inválida<br>
 -> `while True`, `try`, `except`,`continue`, `if`, `elif`, `break`, `else`<br>
 
-arquivos-e-excecoes > exercicios:<br>
+<strong>arquivos-e-excecoes > exercicios:<br></strong>
 <br>
 exercicio-1:<br>
 -> Programa que pede ao usuário 5 números inteiros. Salve estes números dentro de um arquivo chamado “números.txt”. Cada número deve ocupar uma linha.<br>
@@ -27,7 +27,8 @@ exercicio-4:<br>
 -> Ler novamente o conteúdo do arquivo “nome.txt”. Agora, leia uma linha de cada vez, e mostre o conteúdo de cada linha na tela.<br>
 -> 'with open("r") as f`, `for _ in f.readlines()`<br>
 
-dicionarios:<br>
+<strong>dicionarios:<br></strong>
+<br>
 exemplo-1.2:<br>
 -> Elaborar um programa que simule o cadastro de telefones com dicionário como uma agenda, exibindo, ao final, o dicionário.<br>
 -> `while True`, `if`, `break`<br>
