@@ -25,7 +25,7 @@ exercicio-3:<br>
 
 exercicio-4:<br>
 -> Ler novamente o conteúdo do arquivo “nome.txt”. Agora, leia uma linha de cada vez, e mostre o conteúdo de cada linha na tela.<br>
--> 'with open("r") as f`, `for _ in f.readlines()`<br>
+-> `with open("r") as f`, `for _ in f.readlines()`<br>
 
 <strong>dicionarios:<br></strong>
 <br>
